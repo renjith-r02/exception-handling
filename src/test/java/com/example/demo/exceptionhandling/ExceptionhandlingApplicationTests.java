@@ -1,10 +1,10 @@
-package com.rr.example.exception_handling;
+package com.example.demo.exceptionhandling;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExceptionHandlingApplicationTests {
+class ExceptionhandlingApplicationTests {
 
 	@Test
 	void contextLoads() {
